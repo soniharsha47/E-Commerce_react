@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soniharsha47/E-Commerce_react/static/css/main.5a12765e.css",
+    "main.js": "/soniharsha47/E-Commerce_react/static/js/main.8709394b.js",
+    "index.html": "/soniharsha47/E-Commerce_react/index.html",
+    "main.5a12765e.css.map": "/soniharsha47/E-Commerce_react/static/css/main.5a12765e.css.map",
+    "main.8709394b.js.map": "/soniharsha47/E-Commerce_react/static/js/main.8709394b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a12765e.css",
+    "static/js/main.8709394b.js"
+  ]
+}
